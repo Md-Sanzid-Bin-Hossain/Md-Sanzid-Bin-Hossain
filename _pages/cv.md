@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download PDF CV](Md-Sanzid-Bin-Hossain.github.io/files/Sanzid_CV.pdf){: .btn .btn-primary }
+[Download PDF CV](Md-Sanzid-Bin-Hossain.github.io/files/Sanzid_CV.pdf)
 
 
 # Md Sanzid Bin Hossain
