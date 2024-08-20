@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Md Sanzid Bin Hossain"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Md Sanzid Bin Hossain"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Md Sanzid Bin Hossain"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Scholar"
+  bio              : "Postdoctoral Scholar, Department of Clinical science, College of Medicine"
   location         : "Orlando, FL"
   employer         : "University of Central Florida"
   uri              : # URL
