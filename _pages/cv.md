@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+[Download PDF CV](Md-Sanzid-Bin-Hossain.github.io/files/Sanzid_CV.pdf){: .btn .btn-primary }
+
+
 # Md Sanzid Bin Hossain
 
 **Postdoctoral Scholar, Department of Clinical Science, College of Medicine, University of Central Florida**
