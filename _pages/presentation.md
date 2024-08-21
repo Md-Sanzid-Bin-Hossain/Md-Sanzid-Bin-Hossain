@@ -5,7 +5,6 @@ permalink: /presentation/
 author_profile: true
 ---
 
-
 ## Presentation
 
 - **T8:** [Podium Presentation] *9th International Congress on Information and Communication Technology*, 2024
