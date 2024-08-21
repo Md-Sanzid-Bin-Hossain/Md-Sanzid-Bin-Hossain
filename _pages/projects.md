@@ -5,7 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-
 ## Research Projects
 - **P5:** Upper Extremity Joint Angle Analysis Using the Combination of EMG and IMUs
   - Assisted in mentoring and collecting data from 13 subjects using the Vicon Motion Capture System, Delsys EMG, and IMUs, followed by data processing in OpenSim software.
