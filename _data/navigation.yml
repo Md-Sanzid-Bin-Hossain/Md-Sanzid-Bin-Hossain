@@ -10,7 +10,7 @@ main:
   - title: "Presentation"
     url: /presentation/    
 
-   - title: "CV"
+  - title: "CV"
     url: /cv/
 
   # - title: "Blog Posts"
