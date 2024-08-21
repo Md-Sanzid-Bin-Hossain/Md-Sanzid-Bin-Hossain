@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-## Talks/Poster Presentations
 - **T8:** [Podium Presentation] *9th International Congress on Information and Communication Technology*, 2024
 - **T7:** [Podium Presentation] *Gait and Clinical Movement Analysis Society Annual Meeting (GCMAS)*, 2024
 - **T6:** [Poster Presentation] *46th Meetings of the American Society of Biomechanics (ASB)*, 2023
