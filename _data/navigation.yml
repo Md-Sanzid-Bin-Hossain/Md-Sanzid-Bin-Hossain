@@ -4,18 +4,14 @@ main:
   - title: "Research Project"
     url: /projects/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Teaching"
+    url: /teaching/  
 
   - title: "Presentation"
     url: /presentation/    
 
-  - title: "Teaching"
-    url: /teaching/   
-    
    - title: "CV"
     url: /cv/
-
 
   # - title: "Blog Posts"
   #   url: /year-archive/
