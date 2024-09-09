@@ -21,7 +21,7 @@ Our dataset is available on the following [link](https://stars.library.ucf.edu/u
   <img src="../images/WSI_all_organs.png" alt="Alt text" width="700"/>
 </div>
 
-
+<br>
  
 # **P3:** Smartphone-Video Based Human Kinetics Estimation
 
@@ -56,7 +56,7 @@ Our proposed approach of knowledge distillation with a teacher and student model
   <img src="../images/main_fig.png" alt="Alt text" width="800"/>
 </div>
 
-
+<br>
 
 # **P2:** Sparse IMU Sensor-Based Joint Angles, Joint Moments, and GRFs Estimation
 
@@ -75,6 +75,9 @@ This project introduces **Kinetics-MFFM-Net**, a lightweight model designed to e
 - 
 ## Conclusion
 The proposed **Kinetics-MFFM-Net** and its sensor distillation approach provide a practical and efficient solution for gait kinetics estimation using sparse IMU sensors, outperforming current methods in both accuracy and computational efficiency.
+
+
+<br>
 
 
 # **P1:** Prediction and Reconstruction of 3D Human Pose Using IMUs and Wearable Cameras
