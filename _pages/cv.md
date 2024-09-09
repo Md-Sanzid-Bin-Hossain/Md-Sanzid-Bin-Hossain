@@ -55,24 +55,24 @@ My research primarily focuses on advanced AI-based approaches, utilizing wearabl
 
 
 ### PhD Dissertation
-[Towards Sparse IMU Sensor-Based Estimation of Walking Kinematics, Joint Moments, and Ground Reaction Forces in Multiple Locomotion Modes via Deep Learning]{https://stars.library.ucf.edu/etd2023/348/}
+[Towards Sparse IMU Sensor-Based Estimation of Walking Kinematics, Joint Moments, and Ground Reaction Forces in Multiple Locomotion Modes via Deep Learning](https://stars.library.ucf.edu/etd2023/348/)
 ### Journal Articles
 
-- **J3:** Md Moniruzzaman, Zhaozheng Yin, **Md Sanzid Bin Hossain**, Hwan Choi, and Zhishan Guo, "[Wearable Motion Capture: Reconstructing and Predicting 3D Human Poses From Wearable Sensors](https://ieeexplore.ieee.org/document/10238692)," *IEEE Journal of Biomedical and Health Informatics*, vol. 27, no. 11, pp. 5345–5356, 2023.
+- **[J3]:** Md Moniruzzaman, Zhaozheng Yin, **Md Sanzid Bin Hossain**, Hwan Choi, and Zhishan Guo, "[Wearable Motion Capture: Reconstructing and Predicting 3D Human Poses From Wearable Sensors](https://ieeexplore.ieee.org/document/10238692)," *IEEE Journal of Biomedical and Health Informatics*, vol. 27, no. 11, pp. 5345–5356, 2023.
   
-- **J2:** **Md Sanzid Bin Hossain**, Zhishan Guo, and Hwan Choi, "[Estimation of Lower Extremity Joint Moments and 3D Ground Reaction Forces Using IMU Sensors in Multiple Walking Conditions: A Deep Learning Approach](https://ieeexplore.ieee.org/abstract/document/10086574)," *IEEE Journal of Biomedical and Health Informatics*, 2023.
+- **[J2]:** **Md Sanzid Bin Hossain**, Zhishan Guo, and Hwan Choi, "[Estimation of Lower Extremity Joint Moments and 3D Ground Reaction Forces Using IMU Sensors in Multiple Walking Conditions: A Deep Learning Approach](https://ieeexplore.ieee.org/abstract/document/10086574)," *IEEE Journal of Biomedical and Health Informatics*, 2023.
   
-- **J1:** **Md Sanzid Bin Hossain**, Joseph Dranetz, Hwan Choi, and Zhishan Guo, "[DeepBBWAENet: A CNN-RNN Based Deep Superlearner for Estimating Lower Extremity Sagittal Plane Joint Kinematics Using Shoe-Mounted IMU Sensors in Daily Living](https://ieeexplore.ieee.org/abstract/document/9750553)," *IEEE Journal of Biomedical and Health Informatics*, vol. 26, no. 8, pp. 3906–3917, 2022.
+- **[J1]:** **Md Sanzid Bin Hossain**, Joseph Dranetz, Hwan Choi, and Zhishan Guo, "[DeepBBWAENet: A CNN-RNN Based Deep Superlearner for Estimating Lower Extremity Sagittal Plane Joint Kinematics Using Shoe-Mounted IMU Sensors in Daily Living](https://ieeexplore.ieee.org/abstract/document/9750553)," *IEEE Journal of Biomedical and Health Informatics*, vol. 26, no. 8, pp. 3906–3917, 2022.
 
 ### Journals Under Submission and Preparation
 
-- **U4:** Oliver Fritsche, Steven Camacho, Tyler Halpenny, Carlos Archniegas, **Md Sanzid Bin Hossain**, Joseph Dranetz, and Hwan Choi, "Multimodal IMU and EMG Dataset for Deep Learning in Upper Body Kinematic Analysis," 2024. **Under Preparation**.
+- **[U4]:** Oliver Fritsche, Steven Camacho, Tyler Halpenny, Carlos Archniegas, **Md Sanzid Bin Hossain**, Joseph Dranetz, and Hwan Choi, "Multimodal IMU and EMG Dataset for Deep Learning in Upper Body Kinematic Analysis," 2024. **Under Preparation**.
   
-- **U3:** **Md Sanzid Bin Hossain**, Hwan Choi, Zhishan Guo, and Dexter Hadley, "Cross-Model Knowledge Transfer to Fuse Heterogeneous Datasets for Enhanced Kinetics Estimation," 2024. **Under Preparation**.
+- **[U3]:** **Md Sanzid Bin Hossain**, Hwan Choi, Zhishan Guo, and Dexter Hadley, "Cross-Model Knowledge Transfer to Fuse Heterogeneous Datasets for Enhanced Kinetics Estimation," 2024. **Under Preparation**.
   
-- **U2:** **Md Sanzid Bin Hossain**, Yelena Piazza, Jacob Braun, Michael Hsieh, Samir Fouissi, Anthony Bilic, Chen Chen, Liqian Wang, Husain Mujtaba, and Dexter Hadley, "A Public Dataset of Histopathology Images for Deep Learning Model Based Classification," *Scientific Data*, 2024. **Under submission**.
+- **[U2]:** **Md Sanzid Bin Hossain**, Yelena Piazza, Jacob Braun, Michael Hsieh, Samir Fouissi, Anthony Bilic, Chen Chen, Liqian Wang, Husain Mujtaba, and Dexter Hadley, "A Public Dataset of Histopathology Images for Deep Learning Model Based Classification," *Scientific Data*, 2024. **Under submission**.
 
-- **U1:** **Md Sanzid Bin Hossain**, Hwan Choi, Zhishan Guo, and Dexter Hadley, "Sparse IMU-Based Kinetics Estimation Using Multi-modal Fusion and Sensor Distillation," *IEEE Journal of Biomedical and Health Informatics*, 2024. **Under submission**.
+- **[U1]:** **Md Sanzid Bin Hossain**, Hwan Choi, Zhishan Guo, and Dexter Hadley, "Sparse IMU-Based Kinetics Estimation Using Multi-modal Fusion and Sensor Distillation," *IEEE Journal of Biomedical and Health Informatics*, 2024. **Under submission**.
 
 ### Conferences
 
