@@ -57,7 +57,7 @@ My research primarily focuses on advanced AI-based approaches, utilizing wearabl
 
 
 
-<!## Education
+<! ## Education
 - **PhD in Computer Engineering**, Department of ECE, University of Central Florida, Orlando, FL (August 2024)
   - *Dissertation:* Towards Sparse IMU Sensor-Based Estimation of Walking Kinematics, Joint Moments, and Ground Reaction Forces in Multiple Locomotion Modes via Deep Learning
 - **Bachelor of Science**, Department of Electrical and Electronics Engineering, Bangladesh University of Engineering and Technology (September 2017)
@@ -76,7 +76,7 @@ My research primarily focuses on advanced AI-based approaches, utilizing wearabl
 ## Selected Awards and Honors
 - **NSF Student Travel Award**, IEEE/ACM CHASE 2022
 - **ORC Doctoral Fellow**, University of Central Florida 2019
-- **UCF Presentation Fellowship** 2022, 2024>
+- **UCF Presentation Fellowship** 2022, 2024 >
 
 ## Publications
 
