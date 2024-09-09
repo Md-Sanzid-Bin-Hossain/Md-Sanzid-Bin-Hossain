@@ -18,7 +18,7 @@ author_profile: true
 - **P2:** Sparse IMU Sensor-Based Joint Angles, Joint Moments, and GRFs Estimation
   - Proposed novel methods for estimating joint angles, joint moments, and ground reaction forces (GRFs) using a sparse configuration of inertial measurement unit (IMU) sensors.
   - Leveraged a new technique called sensor distillation and multi-modal fusion to enhance the accuracy and reliability of the estimations, significantly outperforming state-of-the-art deep learning models while remaining computationally lightweight.
-  - 
+    
 - **P1:** Prediction and Reconstruction of 3D Human Pose Using IMUs and Wearable Cameras
   - Collected data from 20 subjects using Vicon Motion Capture, Delsys IMUs, and two shank-mounted egocentric GoPro cameras, with subsequent processing in OpenSim.
   - Introduced an innovative approach that integrates whole-body IMUs with wearable camera features to accurately reconstruct current 3D poses and predict future movements.
