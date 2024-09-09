@@ -76,31 +76,31 @@ My research primarily focuses on advanced AI-based approaches, utilizing wearabl
 
 ### Conferences
 
-- **C7:** **Md Sanzid Bin Hossain**, Md Shazid Islam, Md Saad Ul Haque, and Md Saydur Rahman, "[Gait Phase Classification from sEMG in Multiple Locomotion Mode Using Deep Learning](https://link.springer.com/chapter/10.1007/978-981-97-3562-4_29)," *9th International Congress on Information and Communication Technology*, 2024.
+- **[C7]:** **Md Sanzid Bin Hossain**, Md Shazid Islam, Md Saad Ul Haque, and Md Saydur Rahman, "[Gait Phase Classification from sEMG in Multiple Locomotion Mode Using Deep Learning](https://link.springer.com/chapter/10.1007/978-981-97-3562-4_29)," *9th International Congress on Information and Communication Technology*, 2024.
   
-- **C6:** **Md Sanzid Bin Hossain**, Zhishan Guo, Ning Sui, and Hwan Choi, "[Predicting Lower Extremity Joint Kinematics Using Multi-Modal Data in the Lab and Outdoor Environment](https://scholarspace.manoa.hawaii.edu/items/aff5225a-02ab-4174-902d-f90f1acbc352)," *57th Hawaii International Conference on System Sciences*, 2024.
+- **[C6]:** **Md Sanzid Bin Hossain**, Zhishan Guo, Ning Sui, and Hwan Choi, "[Predicting Lower Extremity Joint Kinematics Using Multi-Modal Data in the Lab and Outdoor Environment](https://scholarspace.manoa.hawaii.edu/items/aff5225a-02ab-4174-902d-f90f1acbc352)," *57th Hawaii International Conference on System Sciences*, 2024.
   
-- **C5:** Md Shazid Islam, Md Saydur Rahman, Md Saad Ul Haque, Farhana Akter Tumpa, **Md Sanzid Bin Hossain**, and Abul Al Arabi, "[Location Agnostic Adaptive Rain Precipitation Prediction Using Deep Learning](https://ieeexplore.ieee.org/abstract/document/10456479)," *2023 IEEE 9th International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE)*, pp. 148–153, 2023.
+- **[C5]:** Md Shazid Islam, Md Saydur Rahman, Md Saad Ul Haque, Farhana Akter Tumpa, **Md Sanzid Bin Hossain**, and Abul Al Arabi, "[Location Agnostic Adaptive Rain Precipitation Prediction Using Deep Learning](https://ieeexplore.ieee.org/abstract/document/10456479)," *2023 IEEE 9th International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE)*, pp. 148–153, 2023.
   
-- **C4:** Md Saydur Rahman, Farhana Akter Tumpa, Md Shazid Islam, Abul Al Arabi, **Md Sanzid Bin Hossain**, and Md Saad Ul Haque, "[Comparative Evaluation of Weather Forecasting Using Machine Learning Models](https://ieeexplore.ieee.org/abstract/document/10441077)," *2023 26th International Conference on Computer and Information Technology (ICCIT)*, pp. 1–6, 2023.
+- **[C4]:** Md Saydur Rahman, Farhana Akter Tumpa, Md Shazid Islam, Abul Al Arabi, **Md Sanzid Bin Hossain**, and Md Saad Ul Haque, "[Comparative Evaluation of Weather Forecasting Using Machine Learning Models](https://ieeexplore.ieee.org/abstract/document/10441077)," *2023 26th International Conference on Computer and Information Technology (ICCIT)*, pp. 1–6, 2023.
   
-- **C3:** **Md Sanzid Bin Hossain**, Zhishan Guo, and Hwan Choi, "[Estimation of Hip, Knee, and Ankle Joint Moment Using a Single IMU Sensor on Foot Via Deep Learning](https://ieeexplore.ieee.org/abstract/document/9983626)," *2022 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)*, pp. 25–33, 2022.
+- **[C3]:** **Md Sanzid Bin Hossain**, Zhishan Guo, and Hwan Choi, "[Estimation of Hip, Knee, and Ankle Joint Moment Using a Single IMU Sensor on Foot Via Deep Learning](https://ieeexplore.ieee.org/abstract/document/9983626)," *2022 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)*, pp. 25–33, 2022.
 
-- **C2:** **Md Sanzid Bin Hossain**, Hwan Choi, and Zhishan Guo, "[Estimating Lower Extremity Joint Angles During Gait Using Reduced Number of Sensors Count Via Deep Learning](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12342/123423P/Estimating-lower-extremity-joint-angles-during-gait-using-reduced-number/10.1117/12.2643786.short#_=_)," *Fourteenth International Conference on Digital Image Processing (ICDIP 2022)*, vol. 12342, pp. 1116–1123, 2022.
+- **[C2]:** **Md Sanzid Bin Hossain**, Hwan Choi, and Zhishan Guo, "[Estimating Lower Extremity Joint Angles During Gait Using Reduced Number of Sensors Count Via Deep Learning](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12342/123423P/Estimating-lower-extremity-joint-angles-during-gait-using-reduced-number/10.1117/12.2643786.short#_=_)," *Fourteenth International Conference on Digital Image Processing (ICDIP 2022)*, vol. 12342, pp. 1116–1123, 2022.
 
-- **C1:** Jayanta Dey, **Md Sanzid Bin Hossain**, and Mohammad Ariful Haque, "[An Ensemble SVM-Based Approach for Voice Activity Detection](https://ieeexplore.ieee.org/abstract/document/8636745)," *2018 10th International Conference on Electrical and Computer Engineering (ICECE)*, pp. 297–300, 2018.
+- **[C1]:** Jayanta Dey, **Md Sanzid Bin Hossain**, and Mohammad Ariful Haque, "[An Ensemble SVM-Based Approach for Voice Activity Detection](https://ieeexplore.ieee.org/abstract/document/8636745)," *2018 10th International Conference on Electrical and Computer Engineering (ICECE)*, pp. 297–300, 2018.
 
 ### Conference Abstracts
 
-- **CA5:** **Md Sanzid Bin Hossain**, Zhishan Guo, and Hwan Choi, "Domain Adaptation Technique to Transfer Knowledge Among Different Datasets for Improved Kinetics Estimation," in *Proceedings of the Gait and Clinical Movement Analysis Society Annual Meeting (GCMAS)*, 2024.
+- **[CA5]:** **Md Sanzid Bin Hossain**, Zhishan Guo, and Hwan Choi, "Domain Adaptation Technique to Transfer Knowledge Among Different Datasets for Improved Kinetics Estimation," in *Proceedings of the Gait and Clinical Movement Analysis Society Annual Meeting (GCMAS)*, 2024.
 
-- **CA4:** **Md Sanzid Bin Hossain**, Zhishan Guo, and Hwan Choi, "[Sensor and Cross-Modal Knowledge Distillation for Kinetics Estimation](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24302968.v1)," in *Proceedings of the 46th Meetings of the American Society of Biomechanics (ASB)*, 2023.
+- **[CA4]:** **Md Sanzid Bin Hossain**, Zhishan Guo, and Hwan Choi, "[Sensor and Cross-Modal Knowledge Distillation for Kinetics Estimation](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24302968.v1)," in *Proceedings of the 46th Meetings of the American Society of Biomechanics (ASB)*, 2023.
 
-- **CA3:** **Md Sanzid Bin Hossain**, Zhishan Guo, and Hwan Choi, "[Estimating Ground Reaction Forces (GRF) and Lower Extremity Joint Moment in Multiple Walking Environments Using Deep Learning](https://d197for5662m48.cloudfront.net/documents/publicationstatus/172420/preprint_pdf/8466d62309ae586d310b34c39652c404.pdf)," in *Proceedings of the Gait and Clinical Movement Analysis Society Annual Meeting (GCMAS)*, 2022.
+- **[CA3]:** **Md Sanzid Bin Hossain**, Zhishan Guo, and Hwan Choi, "[Estimating Ground Reaction Forces (GRF) and Lower Extremity Joint Moment in Multiple Walking Environments Using Deep Learning](https://d197for5662m48.cloudfront.net/documents/publicationstatus/172420/preprint_pdf/8466d62309ae586d310b34c39652c404.pdf)," in *Proceedings of the Gait and Clinical Movement Analysis Society Annual Meeting (GCMAS)*, 2022.
 
-- **CA2:** **Md Sanzid Bin Hossain**, Joseph Dranetz, Hwan Choi, and Zhishan Guo, "[An Ensemble Machine Learning Approach for the Estimation of Lower Extremity Kinematics Using Shoe-Mounted IMU Sensors](https://zguo32.wordpress.ncsu.edu/files/2023/02/GMCAS_2021_Sanzid.pdf)," in *Proceedings of the Gait and Clinical Movement Analysis Society Annual Meeting (GCMAS)*, 2021.
+- **[CA2]:** **Md Sanzid Bin Hossain**, Joseph Dranetz, Hwan Choi, and Zhishan Guo, "[An Ensemble Machine Learning Approach for the Estimation of Lower Extremity Kinematics Using Shoe-Mounted IMU Sensors](https://zguo32.wordpress.ncsu.edu/files/2023/02/GMCAS_2021_Sanzid.pdf)," in *Proceedings of the Gait and Clinical Movement Analysis Society Annual Meeting (GCMAS)*, 2021.
 
-- **CA1:** **Md Sanzid Bin Hossain**, Youngho Lee, Junghwa Hong, Hwan Choi, and Zhishan Guo, "[Predicting Lower Limb 3D Kinematics During Gait Using Reduced Number of Wearable Sensors Via Deep Learning](https://asbweb.org/wp-content/uploads/ASB2020_Abstract_Book_Final.pdf)," in *Proceedings of the 44th Meetings of the American Society of Biomechanics (ASB)*, 2020.
+- **[CA1]:** **Md Sanzid Bin Hossain**, Youngho Lee, Junghwa Hong, Hwan Choi, and Zhishan Guo, "[Predicting Lower Limb 3D Kinematics During Gait Using Reduced Number of Wearable Sensors Via Deep Learning](https://asbweb.org/wp-content/uploads/ASB2020_Abstract_Book_Final.pdf)," in *Proceedings of the 44th Meetings of the American Society of Biomechanics (ASB)*, 2020.
 
 
 ## Talks/Poster Presentations
@@ -134,7 +134,7 @@ My research primarily focuses on advanced AI-based approaches, utilizing wearabl
   - Curated and prepared 1,700 WSIs from various organs for further analysis.
   - Created patches from these WSIs to establish a benchmark dataset for classifying 15 different organs.
 
-## Teaching Experience
+## Teaching Experience (TA)
 - **EEL 4768: Computer Architecture**  
   *Summer 2022*
 - **EEL 4742C: Embedded Systems Lab**  
