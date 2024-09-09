@@ -18,7 +18,7 @@ In this project, we introduce a challenging dataset, which contains 15 organ cla
 Our dataset is available on the following [link](https://stars.library.ucf.edu/ucfnecropsywsi/). The dataset contains 15 organ classes. A sample WSI image of each Organ class is provided in the following Figure.
 
 <div align="center">
-  <img src="../images/WSI_all_organs" alt="Alt text" width="700"/>
+  <img src="../images/WSI_all_organs.png" alt="Alt text" width="700"/>
 </div>
 
 
