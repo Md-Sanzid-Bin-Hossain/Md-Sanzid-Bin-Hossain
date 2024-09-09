@@ -103,26 +103,23 @@ This network reconstructs 3D human poses over time and predicts future poses at 
 
 # Demo Videos
 
-### Walking on Treadmill
-
 <div align="center">
+  <h3>Walking on Treadmill</h3>
   <img src="https://user-images.githubusercontent.com/59179258/135166324-299ab348-892a-45f4-8f18-b1c5e45c6abe.gif" alt="treadmill_with_third_person_view" width="700"/>
 </div>
 
-### Walking on Stair
-
 <div align="center">
+  <h3>Walking on Stair</h3>
   <img src="https://user-images.githubusercontent.com/59179258/135166578-9d38adc3-856e-4ba5-b68f-7f77a41848ab.gif" alt="stair_with_third_person_view" width="700"/>
 </div>
 
-### Walking on Slope
-
 <div align="center">
+  <h3>Walking on Slope</h3>
   <img src="https://user-images.githubusercontent.com/59179258/135167401-7d31e58f-c331-44b7-a5c0-e4bda485bc02.gif" alt="slope_with_third_person_view" width="700"/>
 </div>
 
-### Walking on the Ground and Avoiding Obstacles
-
 <div align="center">
+  <h3>Walking on the Ground and Avoiding Obstacles</h3>
   <img src="https://user-images.githubusercontent.com/59179258/135167429-92b11cd0-feaa-452e-841a-e414b59c67de.gif" alt="obstacles_with_third_person_view" width="700"/>
 </div>
+
