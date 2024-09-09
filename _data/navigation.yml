@@ -4,6 +4,9 @@ main:
   - title: "Research Projects"
     url: /projects/
 
+  - title: "GitHub Repo" 
+    url: /github/
+
   - title: "Teaching"
     url: /teaching/  
 
