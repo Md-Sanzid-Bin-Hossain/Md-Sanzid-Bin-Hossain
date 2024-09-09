@@ -28,7 +28,7 @@ Our dataset is available on the following [link](https://stars.library.ucf.edu/u
 ## Summary
 
 <div align="center">
-  <img src="../images/overall_approah.png" alt="Alt text" width="700"/>
+  <img src="../images/overall_approah.png" alt="Alt text" width="500"/>
 </div>
 
 
@@ -51,9 +51,11 @@ Explore the code and models to implement this advanced, accessible solution for 
 ## Model Overview
 Our proposed approach of knowledge distillation with a teacher and student model. Initially, a teacher model is trained, followed by pre-training the student model's encoder using Knowledge Distillation (KD) loss, leveraging the trained teacher model's encoder. Subsequently, a pre-trained student encoder is coupled with MFM and then fine-tuned to obtain the student model.
 
-<p align="center">
-  <img src="Images/main_fig.png">
-</p>
+
+<div align="center">
+  <img src="../images/main_fig.png" alt="Alt text" width="600"/>
+</div>
+
 
 
 # **P2:** Sparse IMU Sensor-Based Joint Angles, Joint Moments, and GRFs Estimation
