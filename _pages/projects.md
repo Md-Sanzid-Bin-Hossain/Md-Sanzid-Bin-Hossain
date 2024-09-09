@@ -105,7 +105,10 @@ This network reconstructs 3D human poses over time and predicts future poses at 
 
 Walking on Treadmill
 
-![treadmill_with_third_person_view](https://user-images.githubusercontent.com/59179258/135166324-299ab348-892a-45f4-8f18-b1c5e45c6abe.gif)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/59179258/135166324-299ab348-892a-45f4-8f18-b1c5e45c6abe.gif" alt="treadmill_with_third_person_view" width="600"/>
+</div>
+
 
 Walking on Stair
 
