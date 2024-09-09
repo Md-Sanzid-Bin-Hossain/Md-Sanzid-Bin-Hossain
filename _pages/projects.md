@@ -17,7 +17,10 @@ In this project, we introduce a challenging dataset, which contains 15 organ cla
 ## Dataset
 Our dataset is available on the following [link](https://stars.library.ucf.edu/ucfnecropsywsi/). The dataset contains 15 organ classes. A sample WSI image of each Organ class is provided in the following Figure.
 
-![Alt text](images/WSI_all_organs.png)
+<div align="center">
+  <img src="../images/WSI_all_organs" alt="Alt text" width="700"/>
+</div>
+
 
  
 # **P3:** Smartphone-Video Based Human Kinetics Estimation
