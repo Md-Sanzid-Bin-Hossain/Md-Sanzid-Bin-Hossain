@@ -27,9 +27,10 @@ Our dataset is available on the following [link](https://stars.library.ucf.edu/u
 
 ## Summary
 
-<p align="center">
-  <img src="Images/overall_approah.png">
-</p>
+<div align="center">
+  <img src="../images/overall_approah.png" alt="Alt text" width="700"/>
+</div>
+
 
 
 This repository contains the code and models developed for estimating joint moments and 3D ground reaction forces (GRFs) using smartphone video data. Our approach offers a **cost-effective** and **accessible alternative** to traditional methods that require expensive equipment like force plates and motion capture systems. By utilizing only 2-D joint center data obtained from smartphone videos, our novel deep learning model effectively estimates joint moments and GRFs without the need for inertial measurement units (IMUs).
