@@ -53,7 +53,7 @@ Our proposed approach of knowledge distillation with a teacher and student model
 
 
 <div align="center">
-  <img src="../images/main_fig.png" alt="Alt text" width="600"/>
+  <img src="../images/main_fig.png" alt="Alt text" width="800"/>
 </div>
 
 
@@ -83,9 +83,10 @@ The proposed **Kinetics-MFFM-Net** and its sensor distillation approach provide 
 
 Reconstructing and predicting 3D human walking poses in unconstrained environments has significant potential for use in health monitoring systems, especially for individuals with movement disabilities. By assessing progression after treatments and providing data for assistive device controls, these systems can aid patient care. Current pose estimation algorithms rely on motion capture systems that gather data from IMU sensors and third-person cameras. However, third-person views are often impractical for outpatients.
 
-<p align="center">
-  <img src="Figures/Overall_approach.gif">
-</p>
+
+<div align="center">
+  <img src="../images/Overall_approach.gif" alt="Alt text" width="700"/>
+</div>
 
 
 This paper proposes a wearable motion capture approach that reconstructs and predicts 3D human poses using only wearable IMU sensors and wearable cameras, enabling clinicians to monitor patients remotely. The key contribution is a novel **Attention-Oriented Recurrent Neural Network (AttRNet)**, which includes:
