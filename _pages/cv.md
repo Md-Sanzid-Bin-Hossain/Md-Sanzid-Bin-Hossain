@@ -22,7 +22,42 @@ redirect_from:
 ## Research Summary
 My research primarily focuses on advanced AI-based approaches, utilizing wearables for more practical, cost-effective, and accurate human gait analysis, while also integrating deep learning for clinical decision-making in digital pathology and radiology. This interdisciplinary work contributes to the development of more personalized, automated, and timely healthcare solutions. I have published several high-impact journals, conferences, and conference abstracts in these fields.
 
+## Research Experience
+
+- **Postdoctoral Scholar**, University of Central Florida, Orlando, FL  
+  _August 2024 - Present_  
+  Department of Clinical Science, College of Medicine  
+  **Advisor:** Dr. Dexter Hadley 
+
+- **Graduate Research Assistant**, University of Central Florida, Orlando, FL  
+  _August 2020 - July 2024_  
+  Department of Electrical and Computer Engineering  
+  **Advisor:** Dr. Hwan Choi and Dr. Zhishan Guo  
+
 ## Education
+
+- **University of Central Florida, Orlando, FL**  
+  _PhD in Computer Engineering, Department of ECE_  
+  Expected August 2024  
+
+- **Bangladesh University of Engineering and Technology**  
+  _Bachelor of Science, Department of Electrical and Electronics Engineering_  
+  September 2017  
+
+## Selected Awards and Honors
+
+- NSF Student Travel Award, IEEE/ACM CHASE  
+  _2022_
+
+- ORC Doctoral Fellow, University of Central Florida  
+  _2019_
+
+- UCF Presentation Fellowship  
+  _2022, 2024_
+
+
+
+<!## Education
 - **PhD in Computer Engineering**, Department of ECE, University of Central Florida, Orlando, FL (August 2024)
   - *Dissertation:* Towards Sparse IMU Sensor-Based Estimation of Walking Kinematics, Joint Moments, and Ground Reaction Forces in Multiple Locomotion Modes via Deep Learning
 - **Bachelor of Science**, Department of Electrical and Electronics Engineering, Bangladesh University of Engineering and Technology (September 2017)
@@ -41,7 +76,7 @@ My research primarily focuses on advanced AI-based approaches, utilizing wearabl
 ## Selected Awards and Honors
 - **NSF Student Travel Award**, IEEE/ACM CHASE 2022
 - **ORC Doctoral Fellow**, University of Central Florida 2019
-- **UCF Presentation Fellowship** 2022, 2024
+- **UCF Presentation Fellowship** 2022, 2024>
 
 ## Publications
 
