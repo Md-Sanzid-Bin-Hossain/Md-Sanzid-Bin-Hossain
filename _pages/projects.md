@@ -8,8 +8,19 @@ author_profile: true
 ## Research Projects
 
 - **P4:** Whole Slide Image (WSI) Cadaver Tissue Patch Preparation and Classification
-  - Curated and prepared 1,700 WSIs from various organs for further analysis.
-  - Created patches from these WSIs to establish a benchmark dataset for classifying 15 different organs.
+## Summary
+In this project, we introduce a challenging dataset, which contains 15 organ classes for deep learning model development and validation. Our publicly available dataset addresses a crucial gap in digital pathology by providing a large, diverse, and annotated collection of whole slide histopathology images, following FAIR principles. It serves as a benchmark for medical imaging analysis tasks like disease classification, and cancer and pneumonia cell segmentation, enabling improved diagnostics and treatment strategies. With its diverse organ classes and a vast number of patches, it is an ideal resource for transfer learning, accelerating research progress. Crucially, by introducing substantial publicly available data into this field, the dataset overcomes a fundamental challenge, paving the way for more robust deep-learning models in digital pathology. Overall approach of our work is provided in the following Figure:
+
+![Alt text](Images/overall_process.png)
+
+<br>
+
+## Dataset
+Our dataset is available on the following [link](https://stars.library.ucf.edu/ucfnecropsywsi/). Dataset contains 15 organ classes. A sample WSI image of each Organ class is provided in the following Figure.
+
+![Alt text](Images/WSI_all_organs.png)
+
+<br>
  
 - **P3:** Smartphone-Video Based Human Kinetics Estimation
   - Developed an innovative method for estimating knee adduction moment (KAM), knee flexion moment (KFM), and 3D ground reaction forces (GRFs) using only smartphone video data.
